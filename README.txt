@@ -1,6 +1,6 @@
 This project is based on the prompt provided in the Final Assignment
 in COM4503 at the University of Sheffield, with Dr. Steve Maddock. This
-project has been slightly adapted with newly added code by Aniv Surana (University of Texas at Arlington)
+project has been adapted with newly added code by Aniv Surana (University of Texas at Arlington)
 
 This project is the submission for the contract with Dr. Alex Dillhoff for the course CSE 3380.
 
